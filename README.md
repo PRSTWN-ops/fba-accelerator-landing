@@ -5,7 +5,6 @@ Static, mobile-first landing page for The Wholesale Network's $497 FBA Accelerat
 ## Offer shown
 
 - FBA Accelerator Course
-- The Brand Partner Playbook proprietary system
 - Wholesale Challenge
 - $497 one-time payment
 - Access delivered through Whop
